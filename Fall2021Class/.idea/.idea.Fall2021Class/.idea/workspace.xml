@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0569300a-b6c6-4199-9226-3ffb64ac12c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0569300a-b6c6-4199-9226-3ffb64ac12c8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +15,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Script1.cs" />
         <option value="$PROJECT_DIR$/Assets/VariablesAndFunctions.cs" />
+        <option value="$PROJECT_DIR$/Assets/BasicSyntax.cs" />
       </list>
     </option>
   </component>
@@ -63,6 +61,7 @@
       <workItem from="1633577673038" duration="12000" />
       <workItem from="1633577713582" duration="623000" />
       <workItem from="1633578470178" duration="328000" />
+      <workItem from="1633661022009" duration="298000" />
     </task>
     <servers />
   </component>
