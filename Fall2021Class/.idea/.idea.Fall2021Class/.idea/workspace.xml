@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0569300a-b6c6-4199-9226-3ffb64ac12c8" name="Default Changelist" comment="" />
+    <list default="true" id="0569300a-b6c6-4199-9226-3ffb64ac12c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/MainPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MainPlayer.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +66,7 @@
       <workItem from="1633578470178" duration="328000" />
       <workItem from="1633661022009" duration="298000" />
       <workItem from="1633661597609" duration="46000" />
+      <workItem from="1633661735510" duration="333000" />
     </task>
     <servers />
   </component>
