@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/Assets/Script1.cs" />
         <option value="$PROJECT_DIR$/Assets/VariablesAndFunctions.cs" />
         <option value="$PROJECT_DIR$/Assets/BasicSyntax.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainPlayer.cs" />
       </list>
     </option>
   </component>
@@ -62,6 +63,7 @@
       <workItem from="1633577713582" duration="623000" />
       <workItem from="1633578470178" duration="328000" />
       <workItem from="1633661022009" duration="298000" />
+      <workItem from="1633661597609" duration="46000" />
     </task>
     <servers />
   </component>
