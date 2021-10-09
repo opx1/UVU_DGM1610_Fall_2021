@@ -6,7 +6,7 @@ using UnityEngine;
 public class VariablesAndFunctions : MonoBehaviour
 {
     private int myInt = 5;
-
+    private int myNum = 50;
     private void Start()
     {
         myInt = MultiplyByTwo(myInt);

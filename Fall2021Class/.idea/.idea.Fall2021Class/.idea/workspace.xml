@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0569300a-b6c6-4199-9226-3ffb64ac12c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/MainPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MainPlayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VariablesAndFunctions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VariablesAndFunctions.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,13 +33,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Operators.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Script1.cs" />
-        <option value="$PROJECT_DIR$/Assets/VariablesAndFunctions.cs" />
         <option value="$PROJECT_DIR$/Assets/BasicSyntax.cs" />
+        <option value="$PROJECT_DIR$/Assets/VariablesAndFunctions.cs" />
         <option value="$PROJECT_DIR$/Assets/MainPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Variables.cs" />
+        <option value="$PROJECT_DIR$/Assets/Operators.cs" />
       </list>
     </option>
   </component>
@@ -66,7 +93,7 @@
       <workItem from="1633578470178" duration="328000" />
       <workItem from="1633661022009" duration="298000" />
       <workItem from="1633661597609" duration="46000" />
-      <workItem from="1633661735510" duration="333000" />
+      <workItem from="1633661735510" duration="2982000" />
     </task>
     <servers />
   </component>
@@ -75,6 +102,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
