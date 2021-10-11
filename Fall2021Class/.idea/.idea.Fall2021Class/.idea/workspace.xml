@@ -22,8 +22,6 @@
     <list default="true" id="0569300a-b6c6-4199-9226-3ffb64ac12c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MainPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MainPlayer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/VariablesAndFunctions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VariablesAndFunctions.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +44,7 @@
         <option value="$PROJECT_DIR$/Assets/MainPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/Variables.cs" />
         <option value="$PROJECT_DIR$/Assets/Operators.cs" />
+        <option value="$PROJECT_DIR$/Assets/Conditionals.cs" />
       </list>
     </option>
   </component>
@@ -93,7 +92,8 @@
       <workItem from="1633578470178" duration="328000" />
       <workItem from="1633661022009" duration="298000" />
       <workItem from="1633661597609" duration="46000" />
-      <workItem from="1633661735510" duration="2982000" />
+      <workItem from="1633661735510" duration="3240000" />
+      <workItem from="1633992105756" duration="418000" />
     </task>
     <servers />
   </component>
@@ -112,6 +112,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
