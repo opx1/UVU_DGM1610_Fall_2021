@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0569300a-b6c6-4199-9226-3ffb64ac12c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fall2021Class/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Switches.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Switches.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
         <option value="$PROJECT_DIR$/Assets/Variables.cs" />
         <option value="$PROJECT_DIR$/Assets/Operators.cs" />
         <option value="$PROJECT_DIR$/Assets/Conditionals.cs" />
+        <option value="$PROJECT_DIR$/Assets/Switches.cs" />
       </list>
     </option>
   </component>
@@ -93,7 +94,8 @@
       <workItem from="1633661022009" duration="298000" />
       <workItem from="1633661597609" duration="46000" />
       <workItem from="1633661735510" duration="3240000" />
-      <workItem from="1633992105756" duration="418000" />
+      <workItem from="1633992105756" duration="1722000" />
+      <workItem from="1634180384683" duration="333000" />
     </task>
     <servers />
   </component>
