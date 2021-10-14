@@ -20,6 +20,7 @@ public class Switches : MonoBehaviour
             case 4:
                 Console.WriteLine("Thursday");
                 break;
+            default:
             case 5:
                 Console.WriteLine("Friday");
                 break;
