@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="BasicSyntax.cs" t="Include" />
         <e p="Conditionals.cs" t="Include" />
+        <e p="Loops.cs" t="Include" />
         <e p="MainPlayer.cs" t="Include" />
         <e p="Operators.cs" t="Include" />
         <e p="Script1.cs" t="Include" />
