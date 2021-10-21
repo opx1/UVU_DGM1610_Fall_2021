@@ -6,6 +6,7 @@
     <e p="C:\Users\ferri\Documents\GitKraken\UVU_DGM1610_Fall_2021\Fall2021Class" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Arrays.cs" t="Include" />
         <e p="BasicSyntax.cs" t="Include" />
         <e p="Conditionals.cs" t="Include" />
         <e p="Loops.cs" t="Include" />

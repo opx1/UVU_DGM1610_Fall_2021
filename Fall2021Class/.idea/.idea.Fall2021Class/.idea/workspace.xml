@@ -47,6 +47,7 @@
         <option value="$PROJECT_DIR$/Assets/Conditionals.cs" />
         <option value="$PROJECT_DIR$/Assets/Switches.cs" />
         <option value="$PROJECT_DIR$/Assets/Loops.cs" />
+        <option value="$PROJECT_DIR$/Assets/Arrays.cs" />
       </list>
     </option>
   </component>
@@ -98,6 +99,7 @@
       <workItem from="1633992105756" duration="1722000" />
       <workItem from="1634180384683" duration="852000" />
       <workItem from="1634698582774" duration="840000" />
+      <workItem from="1634786519322" duration="1379000" />
     </task>
     <servers />
   </component>
