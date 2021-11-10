@@ -22,7 +22,12 @@
     <list default="true" id="be230ac9-5e24-4f16-b312-ba976900c5f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype 2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 2/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animal_Chick.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Animal_Chick.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animal_Stag_02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Animal_Stag_02.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Dog_BorderCollie_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Dog_BorderCollie_01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Food_Wine_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Food_Wine_01.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpawnManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SpawnManager.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +41,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestryOutOfBounds.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveForward.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimalMoveForward.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DetectCollisions.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -45,6 +51,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AnimalMoveForward.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DestryOutOfBounds.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpawnManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DetectCollisions.cs" />
       </list>
     </option>
   </component>
@@ -88,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636224857697</updated>
       <workItem from="1636224886746" duration="2653000" />
-      <workItem from="1636512941490" duration="1948000" />
+      <workItem from="1636512941490" duration="3334000" />
     </task>
     <servers />
   </component>
