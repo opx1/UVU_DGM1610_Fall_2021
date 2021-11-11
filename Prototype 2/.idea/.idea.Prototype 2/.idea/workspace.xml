@@ -21,13 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="be230ac9-5e24-4f16-b312-ba976900c5f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype 2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype 2/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 2/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animal_Chick.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Animal_Chick.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Animal_Stag_02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Animal_Stag_02.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Dog_BorderCollie_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Dog_BorderCollie_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Food_Wine_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Food_Wine_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpawnManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SpawnManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/SimpleDogs.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/SimpleDogs.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/SD_Animal_Dog.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Misc/SD_Animal_Dog.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +47,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveForward.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AnimalMoveForward.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DestryOutOfBounds.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpawnManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DetectCollisions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DestryOutOfBounds.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 2/Scripts/SpawnManagerX.cs" />
       </list>
     </option>
   </component>
@@ -95,7 +95,8 @@
       <option name="presentableId" value="Default" />
       <updated>1636224857697</updated>
       <workItem from="1636224886746" duration="2653000" />
-      <workItem from="1636512941490" duration="3334000" />
+      <workItem from="1636512941490" duration="3674000" />
+      <workItem from="1636611563457" duration="1290000" />
     </task>
     <servers />
   </component>
@@ -118,5 +119,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="973" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1636612369781">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="973" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1636612369781" />
   </component>
 </project>
