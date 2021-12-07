@@ -20,14 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00428b9f-cfc3-42cd-8e2e-e1ed67a647d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype 3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 3/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/obstacle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/obstacle.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 3.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveLeft.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveLeft.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpaenManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SpaenManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +38,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/RepeatBackground.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpaenManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveLeft.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -93,6 +86,7 @@
       <workItem from="1637435621746" duration="3339000" />
       <workItem from="1637551047243" duration="1204000" />
       <workItem from="1638578329542" duration="2556000" />
+      <workItem from="1638844903825" duration="927000" />
     </task>
     <servers />
   </component>
