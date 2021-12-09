@@ -20,9 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84ea656d-c5e5-40fd-b62b-02bc45b45792" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sctipts/Enemy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sctipts/Enemy.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main scene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 3/.idea/.idea.Prototype 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 3/.idea/.idea.Prototype 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototype 4/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 4/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +43,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Sctipts/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sctipts/Enemy.cs" />
       </list>
     </option>
   </component>
@@ -79,6 +87,8 @@
       <option name="presentableId" value="Default" />
       <updated>1638908574791</updated>
       <workItem from="1638908598360" duration="2035000" />
+      <workItem from="1639021711792" duration="5389000" />
+      <workItem from="1639027193261" duration="261000" />
     </task>
     <servers />
   </component>
@@ -97,8 +107,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="923" y="154" key="RiderGenerateDialog" timestamp="1639024847128">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="923" y="154" key="RiderGenerateDialog/0.0.1600.860@0.0.1600.860" timestamp="1639024847128" />
   </component>
 </project>
