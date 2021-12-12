@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ea656d-c5e5-40fd-b62b-02bc45b45792" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sctipts/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sctipts/Enemy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sctipts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sctipts/PlayerMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 5/.idea/.idea.Prototype 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 5/.idea/.idea.Prototype 5/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="84ea656d-c5e5-40fd-b62b-02bc45b45792" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +82,7 @@
       <workItem from="1639021711792" duration="5389000" />
       <workItem from="1639027193261" duration="261000" />
       <workItem from="1639260902869" duration="1048000" />
-      <workItem from="1639264456515" duration="1540000" />
+      <workItem from="1639264456515" duration="1541000" />
     </task>
     <servers />
   </component>
