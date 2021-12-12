@@ -10,13 +10,14 @@ public class PlayerMovement : MonoBehaviour
     public float xRange = 10;
 
     public bool isOnGround = true;
+    public bool isOnPlatform = true;
 
-    private Rigidbody playerRb;
+    private Rigidbody2D playerRb;
     
     // Start is called before the first frame update
     void Start()
     {
-        playerRb = GetComponent<Rigidbody>();
+        playerRb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -26,28 +27,33 @@ public class PlayerMovement : MonoBehaviour
         float verticalInput = Input.GetAxis("Vertical");
         
         transform.Translate(Vector3.right * (speed * Time.deltaTime * horizontalInput));
-        if (Input.GetKeyDown(KeyCode.UpArrow) && isOnGround)
+        if (Input.GetKeyDown(KeyCode.UpArrow) && (isOnGround || isOnPlatform))
         {
-            playerRb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+            playerRb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             isOnGround = false;
+            isOnPlatform = false;
         }
 
         if (transform.position.x < -xRange)
         {
-            transform.position = new Vector3(-xRange,transform.position.y, transform.position.z);
+            transform.position = new Vector2(-xRange,transform.position.y);
         }
         if (transform.position.x > xRange)
         {
-            transform.position = new Vector3(xRange,transform.position.y, transform.position.z);
+            transform.position = new Vector2(xRange,transform.position.y);
         }
         
     }
 
-    private void OnCollisionEnter(Collision collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Ground"))
         {
             isOnGround = true;
         }
+        if (collision.gameObject.CompareTag("Platform"))
+        {
+            isOnPlatform = true;
+        } 
     }
 }
