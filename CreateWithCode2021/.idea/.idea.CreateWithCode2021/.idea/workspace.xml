@@ -20,12 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08fb42bc-ea87-40df-a131-45ae01eb914d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CreateWithCode2021/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CreateWithCode2021/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CreateWithCode2021/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CreateWithCode2021/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FinalProject/.idea/.idea.FinalProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProject/.idea/.idea.FinalProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FinalProject/Assets/Scenes/Main scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProject/Assets/Scenes/Main scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +40,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/FollowPlayerX.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/SpinPropellerX.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -92,6 +90,7 @@
       <workItem from="1635987703233" duration="4082000" />
       <workItem from="1636082190358" duration="967000" />
       <workItem from="1639269364723" duration="865000" />
+      <workItem from="1639353675918" duration="5360000" />
     </task>
     <servers />
   </component>
