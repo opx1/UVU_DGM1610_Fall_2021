@@ -6,6 +6,9 @@ public class Enemy : MonoBehaviour
 {
     public float speed;
     public float chaseSpeed;
+    private float paceMax;
+    private float paceMin;
+    public float paceDistance;
 
     private Rigidbody2D enemyRb;
 
@@ -18,6 +21,8 @@ public class Enemy : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        paceMax = transform.position.x + paceDistance;
+        paceMin = transform.position.x - paceDistance;
         enemyRb = GetComponent<Rigidbody2D>();
         player = GameObject.Find("Player");
         playerControllerScript = GameObject.Find("Player").GetComponent<PlayerMovement>();
@@ -28,7 +33,7 @@ public class Enemy : MonoBehaviour
     {
         Vector2 lookDirection = (player.transform.position - transform.position);
         
-        if (lookDirection.x  >= -3 && lookDirection.x <= 3 && playerControllerScript.isOnGround == true )
+        if (lookDirection.x  >= -3.5 && lookDirection.x <= 3.5 && playerControllerScript.isOnGround == true )
         {
             enemyRb.AddForce(lookDirection * chaseSpeed);
             Debug.Log("ChaseRange");
@@ -44,12 +49,12 @@ public class Enemy : MonoBehaviour
                 transform.Translate(Vector2.left * (speed * Time.deltaTime));
             }
 
-            if (transform.position.x <= -2)
+            if (transform.position.x <= paceMin)
             {
                 dirRight = true;
             }
 
-            if (transform.position.x >= 2)
+            else if (transform.position.x >= paceMax)
             {
                 dirRight = false;
             }  
