@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ea656d-c5e5-40fd-b62b-02bc45b45792" name="Default Changelist" comment="" />
+    <list default="true" id="84ea656d-c5e5-40fd-b62b-02bc45b45792" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Friendly.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Friendly.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sctipts/XColorChange.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sctipts/XColorChange.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +49,7 @@
         <option value="$PROJECT_DIR$/Assets/Sctipts/PlayerMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Sctipts/ColorChange.cs" />
         <option value="$PROJECT_DIR$/Assets/Sctipts/CameraPan.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sctipts/XColorChange.cs" />
       </list>
     </option>
   </component>
@@ -92,6 +99,7 @@
       <workItem from="1639264456515" duration="1541000" />
       <workItem from="1639506457414" duration="7374000" />
       <workItem from="1639526917932" duration="6959000" />
+      <workItem from="1639543625376" duration="2053000" />
     </task>
     <servers />
   </component>
