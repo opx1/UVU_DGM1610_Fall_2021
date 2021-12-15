@@ -23,12 +23,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Friendly.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Friendly.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HeartEffect.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/HeartEffect.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sctipts/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sctipts/Enemy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prototype 5/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototype 5/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +34,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Sctipts/ColorChange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sctipts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Simple 2D Platformer BE2/ReadMe/Scripts/ReadmeBE2.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -49,6 +44,8 @@
         <option value="$PROJECT_DIR$/Assets/Sctipts/Friendly.cs" />
         <option value="$PROJECT_DIR$/Assets/Sctipts/ColorChange.cs" />
         <option value="$PROJECT_DIR$/Assets/Sctipts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sctipts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sctipts/IntData.cs" />
       </list>
     </option>
   </component>
@@ -97,6 +94,7 @@
       <workItem from="1639260902869" duration="1048000" />
       <workItem from="1639264456515" duration="1541000" />
       <workItem from="1639506457414" duration="7374000" />
+      <workItem from="1639526917932" duration="1877000" />
     </task>
     <servers />
   </component>
@@ -125,5 +123,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="923" y="154" key="RiderGenerateDialog/0.0.1600.860@0.0.1600.860" timestamp="1639024847128" />
+    <state x="791" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1639528607839">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="791" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1639528607839" />
   </component>
 </project>

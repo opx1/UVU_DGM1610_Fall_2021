@@ -10,7 +10,9 @@
         <e p="Sctipts" t="Include">
           <e p="ColorChange.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
           <e p="Friendly.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
         </e>
         <e p="Simple 2D Platformer BE2" t="Include">
