@@ -2,12 +2,14 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
     public float speed;
     public float jumpForce;
     public float xRange = 10;
+    public float xRight = 30;
 
     public bool isOnGround = true;
     public bool isOnPlatform = true;
@@ -38,9 +40,9 @@ public class PlayerMovement : MonoBehaviour
         {
             transform.position = new Vector2(-xRange,transform.position.y);
         }
-        if (transform.position.x > xRange)
+        if (transform.position.x > xRight)
         {
-            transform.position = new Vector2(xRange,transform.position.y);
+            transform.position = new Vector2(xRight,transform.position.y);
         }
         
     }

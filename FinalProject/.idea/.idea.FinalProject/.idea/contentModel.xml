@@ -8,6 +8,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Sctipts" t="Include">
+          <e p="CameraPan.cs" t="Include" />
           <e p="ColorChange.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
