@@ -15,6 +15,7 @@
           <e p="Friendly.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
+          <e p="XColorChange.cs" t="Include" />
         </e>
         <e p="Simple 2D Platformer BE2" t="Include">
           <e p="ReadMe" t="Include">
